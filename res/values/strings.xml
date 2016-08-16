@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Interval Trainer</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_question">What interval do you hear?</string>
+    <string name="fc_button">FLASH CARDS</string>
+    <string name="quiz_button">QUIZ MODE!</string>
+    <string name="options_button">OPTIONS</string>
+    <string name="ast_image">Aural Skills Trainer</string>
+    <string name="fc_question">Flash Card Question</string>
+    <string name="fc_play_button">Hear Example</string>
+    <string name="fc_next_button">Next interval →</string>
+    <string name="fc_previous_button">← Previous interval</string>
+    <string name="flashcard_title_label">Title</string>
+    <string name="flashcard_details_label">Details</string>
+    <string name="quiz_question">Which interval do you hear?</string>
+    <string name="ppU">Unison</string>
+    <string name="m2">Minor 2nd</string>
+    <string name="mm2">Major 2nd</string>
+    <string name="m3">Minor 3rd</string>
+    <string name="mm3">Major 3rd</string>
+    <string name="p4">Perfect 4th</string>
+    <string name="a4_05">Augmented 4th/Diminished 5th</string>
+    <string name="p5">Perfect 5th</string>
+    <string name="m6">Minor 6th</string>
+    <string name="mm6">Major 6th</string>
+    <string name="m7">Minor 7th</string>
+    <string name="mm7">Major 7th</string>
+    <string name="ppO">Octave</string>
+    <string name="m9">Minor 9th</string>
+    <string name="mm9">Major 9th</string>
+    <string name="m10">Minor 10th</string>
+    <string name="mm10">Major 10th</string>
+    <string name="p11">Perfect 11th</string>
+    <string name="a11_012">Augmented 11th/Diminished 12th</string>
+    <string name="p12">Perfect 12th</string>
+    <!-- interval info: -->
+    <string name="ppU_info">Same note.</string>
+    <string name="m2_info">"Syllables "TI–DO."
+Reference: Theme from "Jaws."
+Fun Fact: Smallest interval in major scale."</string>
+    <string name="mm2_info">"Syllables “DO–RE.”
+Reference: "Happy BIRTHday."
+Fun Fact: Two m2nds equal one M2."</string>
+    <string name="m3_info">"Syllables "MI–SOL."
+References: "This Old Man," "Hey Jude," "FROSTY the Snowman."
+Fun Fact: Top part of the major triad (DO–MI–SOL)."</string>
+    <string name="mm3_info">"Syllables “DO-MI.”
+References: “Beethoven’s Fifth Symphony,” “Summertime.”
+Fun Fact: Bottom part of the major triad."</string>
+    <string name="p4_info">"Syllables “DO-FA.”
+References: “Here Comes the Bride,” “Oh Christmas Tree.”
+Fun Fact: Only one m2nd higher than M3rd."</string>
+    <string name="a4_05_info">"Syllables "DO–FI" (as in "fee").
+References: "Maria" from West Side Story, "The Simpsons" Theme.
+Fun Fact: FI is one m2nd higher than FA and typically resolves to SOL (one m2nd above FI). Also called a tritone."</string>
+    <string name="p5_info">"Syllables “DO–SOL.”
+Reference: "Twinkle, Twinkle&#8230;"
+Fun Fact: First and third notes of the major triad (DO–MI–SOL)."</string>
+    <string name="m6_info">"Syllables “DO–LE” (as in “lay”).
+References: “The Entertainer,” Lady Gaga “Bad Romance” (RA RA&#8230;), Usher “Yeah” (Synth).
+Fun Fact: Only one m2nd higher than P5 and often resolves down to SOL."</string>
+    <string name="mm6_info">"Syllables “DO–LA.”
+References: The NB part of “NBC” Theme, “DASHING through the snow&#8230;”
+Fun Fact: One M2nd higher than the P5."</string>
+    <string name="m7_info">"Syllables "DO–TE" (as in "tay").
+Reference: “THERE'S A&#8230;place for us” from West Side Story.
+Fun Fact: TE creates a dissonant interval that often revolves down by m2nd to LA."</string>
+    <string name="mm7_info">"Syllables “DO–TI.”
+Reference: In the film, Willy Wonka and the Chocolate Factory, from the song "Pure Imagination": "&#8230;in A WORLD of pure imagination."
+Fun Fact: The M7th usually resolves by m2nd to the P8 above."</string>
+    <string name="ppO_info">"Syllables “DO–DO.”
+Reference: “SOMEWHERE over the rainbow” from The Wizard of Oz.
+Fun Fact: In "The Star-Spangled Banner," the following words are a separated by an octave: SAY and SEE."</string>
+    <string name="m9_info">Octave plus m2nd.</string>
+    <string name="mm9_info">Octave plus M2nd.</string>
+    <string name="m10_info">Octave plus m3rd.</string>
+    <string name="mm10_info">Octave plus M3rd.</string>
+    <string name="p11_info">Octave plus P4th.</string>
+    <string name="a11_012_info">Octave plus tritone.</string>
+    <string name="p12_info">Octave plus P5th.</string>
+    <!-- diatonic intervals: -->
+    <string name="dU">Unison</string>
+    <string name="d2">2nd</string>
+    <string name="d3">3rd</string>
+    <string name="d4">4th</string>
+    <string name="d5">5th</string>
+    <string name="d6">6th</string>
+    <string name="d7">7th</string>
+    <string name="dO">Octave</string>
+    <string name="d9">9th</string>
+    <string name="d10">10th</string>
+    <string name="d11">11th</string>
+    <string name="d12">12th</string>
+    <!-- interval qualifiers: -->
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="perfect">Perfect</string>
+    <string name="dim">Diminished</string>
+    <string name="aug">Augmented</string>
+    <!--  -->
+    <string name="quiz_replay">Play Interval Again</string>
+    <string name="quiz_submit_button">Submit Answer</string>
+    <string name="next">Go to next interval →</string>
+    <string name="next2">Next →</string>
+    <string name="replay">Replay Interval</string>
+    <string name="select_prompt">Please select one of the answers!</string>
+    <string name="select_prompt2">Please select interval and quality!</string>
+    <string name="replay_prompt">Replay limit reached - please submit answer!</string>
+    <string name="new_quiz">New Quiz</string>
+    <string name="score_title">Your Score:</string>
+    <string name="quizSettingsTitle">Quiz Settings</string>
+    <string name="quizLevels">Difficulty</string>
+    <string name="quizLevel1">Easy (Unison-5th)</string>
+    <string name="quizLevel2">Standard (Unison-Octave)</string>
+    <string name="quizLevel3">Advanced (Unison-12th)</string>
+    <!-- quiz styles: -->
+    <string name="quizStyle1">Multiple Choice</string>
+    <string name="quizStyle2">Comprehensive</string>
+    <!--  -->
+    <string name="quizCount">Number of questions</string>
+    <string name="replayCount">Replay limit</string>
+    <string name="ok">OK</string>
+    <string name="under_construction">Something will be here someday.</string>
+    <string name="home">Home</string>
+    <string name="tutor">"Welcome fellow musicians and music lovers! To help out in developing a finely-tuned aural awareness of intervals, this tutor space will provide you with some helpful strategies. We can define an interval as how far apart two notes are from each other. With that in mind, here are some terms and concepts to consider.
+   
+1. Some common abbreviations of the intervals are the following: 
+
+M = major
+m = minor
+o = diminished
++ = augmented
+P = perfect
+     
+2. One of the larger skills this app aims to develop is your ability to audiate— or hear these intervals in your head without any aural cues. When you are in Flash Card Mode, test yourself to see if you can sing each interval before hearing each one. The great tools to help you are the “solfeggio” syllables. For a major scale, the syllables are the following: DO–RE–MI–FA–SOL–LA–TI–DO.  If you can sing the major scale, then you have all of the intervals you need to learn for this app (of course, some intervals—like the P12—are “compound” intervals, and encompass a wider interval space than the typical octave range of the scale). Always check your singing attempt in Flash Card Mode with the recording or with your instrument. If your music-reading ability is less than ideal, just know that the second note’s height is related to the higher- numbered intervals. 
+
+3. Once you begin making associations with the intervals you hear in Flash Card Mode, and after you have tested your memory of the sound and distance of each interval, you are ready for aural tests in Quiz Mode. Again, the best way to memorize the intervals is to connect them to something you have already heard (e.g., from a favorite song). If the interval is brand new, then you can use the scale for reference (and memorize the syllables). 
+
+4. Think of the two notes as part of a melody or as an outline of a familiar harmony. Some harmonies are more stable than others. Consonant intervals (major/minor 3rds/6ths and perfects 4ths/5ths) are more stable than dissonant intervals (augmented/ diminished intervals and major/minor 2nds/7ths); and dissonant intervals carry resolution implications. So in the case of dissonance, it’s helpful to ask yourself: What is the consonant resolution of this interval? 
+
+"</string>
+    <string name="credits">"Thank you for using this app! Here are the folks responsible:
+Nathan Foxley, Box Metaphor Studios founder, lead programmer and master's in music theory holder.
+
+James Lloyd: Designer, illustrator, and all around good guy.
+
+Steve Mathews: Music theory expert and tester.
+
+Our hired hand and freelancer Davor Slamnig was crutial to the programming process.
+
+Email questions and bug issues to support@boxmetaphorstudios.com."</string>
+    <string name="tutorTitle">Tutor</string>
+    <string name="creditsTitle">Who is Responsible for This:</string>
+    <string name="fb_link">"Click here to go to the Box Metaphor Studio Facebook page:
+https://www.facebook.com/boxmetaphorstudios/timeline
+
+Follow us on Twitter at @boxmetaphorapps."</string>
+    <string name="first_time_text">"Welcome to the Aural Skills Trainer: Intervals app! On the home page, you'll find options to check out flash cards, do a quiz and configure options. We recommend checking out the &quot;Tutor&quot; mode in the options menu to help you get started, especially if you're new to thinking about intervals. Thank you for downloading this app and wanting to learn more about music!</string>
+    <string name="first_time_title">Welcome!</string>
+    <string name="but_first">&quot;Let's go!&quot;</string>
+
+</resources>

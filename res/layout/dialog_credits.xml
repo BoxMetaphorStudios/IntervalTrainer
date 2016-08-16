@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1a202c"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/credits_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:layout_margin="15dp"
+        android:text="@string/credits"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff" />
+    
+    <TextView 
+        android:id="@+id/fb_link"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:layout_margin="15dp"
+        android:text="@string/fb_link"
+        android:textColor="#ffffff"
+        android:autoLink="web" />
+
+</LinearLayout>
